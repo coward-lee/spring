@@ -1,4 +1,4 @@
-package org.lee.study;
+package org.lee.study.circle;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

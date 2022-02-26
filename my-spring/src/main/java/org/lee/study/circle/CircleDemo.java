@@ -1,4 +1,4 @@
-package org.lee.study;
+package org.lee.study.circle;
 
 public class CircleDemo {
 	public static void main(String[] args) {
